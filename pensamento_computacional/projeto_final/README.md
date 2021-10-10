@@ -19,7 +19,7 @@ Acessar a URL que contém as notícias da [Terras Indígenas Yanomami](https://w
 
 ### Metodologia
 
-O projeto é feito em Python e utiliza as bibliotecas CSV, Requests e BeautifulSoup4. Para o exemplo, utilizamos a Terra Indígena Yanomami, mas qualquer outra do site pode ser utilizada.
+[O projeto](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/blob/main/pensamento_computacional/projeto_final/noticias_indigenas-jessica_avelar.ipynb) é feito em Python e utiliza as bibliotecas CSV, Requests e BeautifulSoup4. Para o exemplo, utilizamos a Terra Indígena Yanomami, mas qualquer outra do site pode ser utilizada.
 
 Para melhor leitura e com o objetivo de ser utilizado posteriormente, foi criado uma classe e quatro métodos que realiza as etapas de ETL:
 
@@ -38,4 +38,4 @@ Para melhor leitura e com o objetivo de ser utilizado posteriormente, foi criado
 
 Foi criado um código em que é possível extrair as notícias de qualquer uma das Terras Indígenas listadas no site, também é possível fazer a pesquisa que desejar dentro das notícias.
 
-O arquivo final tem o nome "uraricoera_yanomami" e pode ser acessado aqui.
+O arquivo final tem o nome "uraricoera_yanomami" e [pode ser acessado aqui](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/blob/main/pensamento_computacional/projeto_final/uraricoera_yanomami.csv).
