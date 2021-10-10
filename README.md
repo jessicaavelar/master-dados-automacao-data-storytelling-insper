@@ -9,7 +9,7 @@ Durante o curso, serão estudadas competências em análises estatísticas, prog
 
 O repositório está organizado por disciplina e cada aula ou projeto têm uma pasta especícifica onde podem ser encontrados os códigos e os dados.
 
-### Pensamento Computacional
+### [Pensamento Computacional](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/tree/main/pensamento_computacional)
 *Em andamento*
  
 *  Introdução à lógica de programação;
