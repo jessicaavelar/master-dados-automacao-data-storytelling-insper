@@ -2,7 +2,9 @@
 
 Neste repositório se encontram as atividades desenvolvidas durante o Master do Insper. O objetivo é concentrar em um só lugar os exercícios, tutoriais e estudos ao longo do curso.
 
-Durante o curso, serão estudadas competências em análises estatísticas, programação, uso ético de dados, processos de automação e narrativas digitais. Para saber mais, [acesse o site do Insper](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/).
+![image](https://user-images.githubusercontent.com/89416633/136854714-7bfa3cd1-ce5a-4407-bb04-062e9a05a206.png)
+
+Durante o curso, serão estudadas as competências em análises estatísticas, programação, uso ético de dados, processos de automação e narrativas digitais. Para saber mais, [acesse o site do Insper](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/).
 
 
 ## Organização
