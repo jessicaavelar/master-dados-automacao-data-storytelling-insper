@@ -11,6 +11,7 @@ Durante o curso, serão estudadas as competências em análises estatísticas, p
 
 O repositório está organizado por disciplina e cada aula ou projeto têm uma pasta especícifica onde podem ser encontrados os códigos e os dados.
 
+
 ### [Pensamento Computacional](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/tree/main/pensamento_computacional)
 *Em andamento*
  
@@ -19,6 +20,7 @@ O repositório está organizado por disciplina e cada aula ou projeto têm uma p
 *  Organização e qualidade do código;
 *  Aplicações em Python.
 
+
 ### Análise Exploratória de Dados
 *Em breve*
 
@@ -26,3 +28,44 @@ O repositório está organizado por disciplina e cada aula ou projeto têm uma p
 * Compreender os fundamentos da análise exploratória de conjuntos de dados;
 * Desenvolver transformações e análises em conjuntos de dados reais;
 * Utilizar ferramentas analíticas interativas para exploração de consjuntos de dados.
+
+
+### Mineração e Análise de Dados de Redes, Textos e Imagens
+*Em breve*
+
+* Extrair automaticamente textos de websites e mídias sociais;
+* Efetuar análise e classificação automática de textos;
+* Interpretar as redes e identificar: clusters informacionais, comunidades de usuários e influenciadores;
+* Explorar corpus de imagens, efetuar o tratamento de imagens digitais e capturar padrões e informações relevantes.
+
+
+### Machine Learning Aplicado ao Jornalismo
+*Em andamento*
+
+* Entender o que é um modelo e o framework de modelagem;
+* Identificar oportunidades dentro do jornalismo para resolução de problemas a partir de técnicas de machine learning;
+* Avaliar resultado de modelos;
+* Aplicar técnicas de modelagem para objetivos específicos dentro do jornalismo;
+* Comunicar incertezas inerentes ao resultado de modelos.
+
+
+### Método de Inferência Causal
+*Em breve*
+
+* Formular boas perguntas de pesquisa empírica;
+* Identificar diferentes métodos empíricos, suas hipóteses e pontos fracos;
+* Analisar criticamente hipóteses, suposições e resultados de pesquisa;
+* Manusear dados para corroborar hipóteses;
+* Estruturar um desenho de pesquisa que leva em conta pergunta, variáveis independentes, variáveis dependentes, método empírico e análises de robustez;
+* Coletar dados e aplicar métodos causair usando pacotes estatísticos;
+* Elaborar produto jornalístico que inclua conceitos estatísticos avançados.
+
+
+### Algoritmos de Automação
+*Em breve*
+
+* Construção em módulos do pensamento analítico para elaboração de um modelo computacional de busca e ranqueamento de dados;
+* Para os algoritmos e estrutura de dados (árvore binária e grafos), ter explícito a noção da diferença de custo entre diferentes algoritmos que resolvem o mesmo problema aplicando-os em testes de performance;
+* Estudo de sumarização textual e engenharia de conhecimento para determinar palavras-chave em contexto textual;
+* Desenvolvimento do pipeline para busca de dados estruturados e não estruturados;
+* Dsenvolvimento do ranqueamento dos dados, com organização de temas.
