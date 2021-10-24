@@ -14,11 +14,17 @@ Ou seja, um modelo é uma representação simplificada da realidade, onde pode s
 #### Glossário básico
 
 **Tipos de modelo** - O que quero prever? Classe, número, segmentação;
+
 **Base de treino** - Dados do passado que usarei para encontrar padrões;
+
 **Variável resposta** - O que quero prever;
+
 **Variáveis explicativas** - Quais informações vou usar para ajudar a prever a variável resposta;
+
 **Técnica** - Como usarei os dados do passado para encontrar padrões (regressão linear, random forest, rede neural);
+
 **Valor predito** - Valor previsto pelo modelo;
+
 **Erro** - Valor observado x Valor predito
 
 
@@ -26,7 +32,8 @@ Ou seja, um modelo é uma representação simplificada da realidade, onde pode s
 
 ![image](https://user-images.githubusercontent.com/89416633/138615538-459a4e91-3f88-48d8-b8c9-21aa66c7b56f.png)
 
-*Na imagem o framework "CRISP-DM" da IBM. Ele é o mais conhecido e utilizado. Não é um dogma, mas pode ser visto como um gruia.
+
+*Na imagem o framework "CRISP-DM" da IBM. Ele é o mais conhecido e utilizado. Não é um dogma, mas pode ser visto como um gruia.*
 
 
 ### Prática da aula
