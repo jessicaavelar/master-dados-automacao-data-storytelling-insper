@@ -39,7 +39,7 @@ O repositório está organizado por disciplina e cada aula ou projeto têm uma p
 * Explorar corpus de imagens, efetuar o tratamento de imagens digitais e capturar padrões e informações relevantes.
 
 
-### Machine Learning Aplicado ao Jornalismo
+### [Machine Learning Aplicado ao Jornalismo](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/tree/main/machine_learning)
 *Em andamento*
 
 * Entender o que é um modelo e o framework de modelagem;
