@@ -49,8 +49,8 @@ O repositório está organizado por disciplina e cada aula ou projeto têm uma p
 * Comunicar incertezas inerentes ao resultado de modelos.
 
 
-### Método de Inferência Causal
-*Em breve*
+### [Método de Inferência Causal](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/tree/main/inferencia_causal)
+*Em andamento*
 
 * Formular boas perguntas de pesquisa empírica;
 * Identificar diferentes métodos empíricos, suas hipóteses e pontos fracos;
