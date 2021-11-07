@@ -44,7 +44,7 @@ Para isso, foi utilizado as [bases de dados do TSE](https://www.tse.jus.br/eleic
 
 Foi feita a transformação dos dados, separando as variáveis de interesse, limpando as bases e juntando-as. Além do treinamento do modelo e da previsão do modelo.
 
-Esse é um modelo simples, utilizado para aprendizado, ele contém erro - não é confiável para prever eleição de vereado. Porém, o objetivo é aprimorá-lo e trabalhar o erro ao longo do curso.
+Esse é um modelo simples, utilizado para aprendizado, ele contém erro - não é confiável para prever eleição de vereador. Porém, o objetivo é de aprendizado e de estudar o erro também no curso.
 
 O notebook completo está disponível no arquivo ["2021_10_18_vereadores_sp.ipynb"](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/blob/main/machine_learning/02_definicao_de_modelo/2021_10_18_vereadores_sp.ipynb).
 
