@@ -41,9 +41,9 @@ A primeira prática teve o objetivo de coletar dados do Twitter utilizando a bib
 
 Coletamos 500 tweets com a hashtag "#BrequeDosApps'.
 
-O notebook completo é o arquivo "2021_10_14_coleta_dados_breque.ipynb".
+O notebook completo é o arquivo "2021_10_14_coleta_dados_breque.ipynb", o [arquivo pode ser acessado aqui](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/blob/main/minera%C3%A7%C3%A3o_analise_de_dados/01_corpus_textuais/2021_10_14_coleta_dados_breque.ipynb).
 
-O csv com os tweets coletados é o arquivo "breque.csv".
+O csv com os tweets coletados é o arquivo "breque.csv", o [arquivo pode ser acessado aqui](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/blob/main/minera%C3%A7%C3%A3o_analise_de_dados/01_corpus_textuais/breque.csv).
 
 Além disso, montamos uma nuvem de palavras:
 
@@ -56,9 +56,9 @@ O exercício era fazer algo semelhante à prática da aula, porém com um assunt
 
 Para tanto, coletei 2000 tweets com as palavras "vacinação", "pandemia", "vacinacao".
 
-o notebook completo é o arquivo "2021_10_14_vacina.ipynb".
+o notebook completo é o arquivo "2021_10_14_vacina.ipynb", o [arquivo pode ser acessado aqui](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/blob/main/minera%C3%A7%C3%A3o_analise_de_dados/01_corpus_textuais/2021_10_14_vacina.ipynb).
 
-O csv com os tweets coletados é o arquivo "vacinacao.csv".
+O csv com os tweets coletados é o arquivo "vacinacao.csv", o [arquivo pode ser acessado aqui](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/blob/main/minera%C3%A7%C3%A3o_analise_de_dados/01_corpus_textuais/vacinacao.csv).
 
 A nuvem de palavras geradas foi:
 
