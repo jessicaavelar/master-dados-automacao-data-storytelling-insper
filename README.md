@@ -30,8 +30,8 @@ O repositório está organizado por disciplina e cada aula ou projeto têm uma p
 * Utilizar ferramentas analíticas interativas para exploração de consjuntos de dados.
 
 
-### Mineração e Análise de Dados de Redes, Textos e Imagens
-*Em breve*
+### [Mineração e Análise de Dados de Redes, Textos e Imagens](https://github.com/jessicaavelar/master-dados-automacao-data-storytelling-insper/tree/main/minera%C3%A7%C3%A3o_analise_de_dados)
+*Em andamento*
 
 * Extrair automaticamente textos de websites e mídias sociais;
 * Efetuar análise e classificação automática de textos;
